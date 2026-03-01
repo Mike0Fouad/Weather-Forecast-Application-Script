@@ -1,5 +1,5 @@
 
-# Simple Weather Forecast Application 🧭
+# Weather Forecast Application 🧭
 
 A command-line Python application that fetches and displays current weather using user-selected input (IP-based location, city/country, or latitude & longitude) via the OpenWeatherMap API and PyOWM.
 
@@ -51,8 +51,8 @@ A command-line Python application that fetches and displays current weather usin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Mike0Fouad/Simple-Weather-Forecast-Application-Script.git
-cd Simple-Weather-Forecast-Application-Script
+git clone https://github.com/Mike0Fouad/Weather-Forecast-Application-Script.git
+cd Weather-Forecast-Application-Script
 ```
 
 ### 2. Create & activate a virtual environment
@@ -168,7 +168,7 @@ Enjoy using the Weather App! 🌤️
 
 
 [1]: https://github.com/csparpa/pyowm/blob/master/README.md?utm_source=chatgpt.com "pyowm/README.md at master · csparpa/pyowm · GitHub"
-[2]: https://github.com/sir-zech/WeatherApp?utm_source=chatgpt.com "GitHub - sir-zech/WeatherApp: A simple and stylish weather application ..."
+[2]: https://github.com/sir-zech/WeatherApp?utm_source=chatgpt.com "GitHub - sir-zech/WeatherApp: A weather application ..."
 [3]: https://github.com/CodeByFelix/pysimplegui-desktop-weather-app?utm_source=chatgpt.com "CodeByFelix/pysimplegui-desktop-weather-app - GitHub"
 [4]: https://pyowm.readthedocs.io/en/latest/index.html?utm_source=chatgpt.com "PyOWM — pyowm documentation - Read the Docs"
 [5]: https://github.com/ramakaknayt/Weather-Forecast?utm_source=chatgpt.com "GitHub - ramakaknayt/Weather-Forecast: A Simple Weather Forecast App ..."
